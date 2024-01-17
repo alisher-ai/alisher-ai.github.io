@@ -33,9 +33,10 @@ Work experience
 
 | Year(s)     | Title                           | Company/Organization              | Leader          | Duties                                     |
 | ----------- | ------------------------------- | --------------------------        | --------------- | -----                                      |
+| 2022 -      | Lead AI Vision Engineer         | ROMS, AI Vision team              |                 | leading AI and robotics team               |
 | 2020 -      | Board Director & Community Lead | Machine Learning Tokyo, board     | Suzana Ilic     | planning the events, leading the community |
-| 2019 -      | Teaching Fellow                 | Tokyo Data Science School         | Michal Fabinger | giving lectures                            |
-| 2018 -      | Computer Vision Engineer        | Browzzin, AI team                 | Ozgur Yilmaz    | training DL models, implement endpoints    |
+| 2019 - 2021 | Teaching Fellow                 | Tokyo Data Science School         | Michal Fabinger | giving lectures                            |
+| 2018 - 2022 | Computer Vision Engineer        | Browzzin, AI team                 | Ozgur Yilmaz    | training DL models, implement endpoints    |
 | 2018 - 2020 | Core Team Member                | Machine Learning Tokyo, core team | Suzana Ilic     | organizing and holding DL workshops        |
 | 2017 - 2018 | Machine Learning Engineer       | PKSHA Technology, CV team         | Yotaro Watanabe | training the SOTA face recognition models  |
 | 2016 - 2017 | Research Intern                 | Rakuten, RIT (R&D)                | Bjorn Stenger   | training deep networks for image retrieval |
@@ -48,9 +49,9 @@ Skills
 | OpenCV                   | Docker     | Uzbek: native speaker   |
 | Scikit-learn             | LATEX      | Kyrgyz: native speaker  |
 | PyTorch                  | mongodb    | Turkish: native speaker |
-| Keras                    | Python     | English: advanced       |
+| Keras                    | Python     | English: fluent         |
 | TensorFlow               | MATLAB     | Russian: intermediate   |
-| Object detection         | RESTful API| Japanese: beginner      |
+| Object detection         | RESTful API| Japanese: intermediate  |
 | Metric learning          |            |                         |
 | Semi-supervised learning |            |                         |
 | Facial recognition       |            |                         |
