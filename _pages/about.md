@@ -21,7 +21,7 @@ Currently, working at ROMS (Robotics Omni Channel Solutions) in Tokyo. I am lead
 
 Apart from my professional life, I am also dealing with community-driven NPO — [Machine Learning Tokyo](https://www.meetup.com/Machine-Learning-Tokyo/). I am a board member and community lead at MLT. We are organizing and hosting hundreds of talks, study sessions, and discussions. MLT is a community of around 8,000 machine learning engineers and researchers from all over the world. There are multiple very cool projects initiated by MLT. For further details, you could visit [MLT website](https://mltokyo.ai) and [MLT Blog](https://machinelearningtokyo.com). Check out our [papers-with-annotation](https://github.com/Machine-Learning-Tokyo/papers-with-annotations) project in which we annotate the published machine learning papers and share them with the community!
 
-In 2020, I started my Ph.D. journey at [CVLAB, University of Tsukuba](https://en.home.cvlab.cs.tsukuba.ac.jp/home) under the supervision of [Prof. Fukui](http://www.cvlab.cs.tsukuba.ac.jp/~kfukui/english/indexE.html). However, due to very massive busy work, I had to take a leave of absence in 2022.
+In 2020, I started my Ph.D. journey at [CVLAB, University of Tsukuba](https://en.home.cvlab.cs.tsukuba.ac.jp/home) under the supervision of [Prof. Fukui](http://www.cvlab.cs.tsukuba.ac.jp/~kfukui/english/indexE.html). However, due to significant professional commitments, I had to take a leave of absence in 2022.
 
 Passionate about making machine learning accessible and advancing in the field of multi-modal foundation models.
 
